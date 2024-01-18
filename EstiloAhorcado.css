@@ -1,0 +1,9 @@
+*{
+    background-color: antiquewhite;
+}
+
+.contenedor1{
+    display: flex;
+    justify-content: center;
+    background-color: 18171c;
+}
